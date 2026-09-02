@@ -17,8 +17,9 @@ name\_chosen\_by\_user
         └── test\_helpers.py
 ```
 
-``` text
+
 #Main goals
+``` text
 [ ] Create a dedicated web-app development preset
 [ ] Create a dedicated data analytic preset
 ```
